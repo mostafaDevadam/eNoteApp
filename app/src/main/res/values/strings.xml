@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">My NavViewModelApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="news_a">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,
+        when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic typesetting,
+        remaining essentially unchanged. It was popularised in the 1960s with the release of
+        Elettra sheets containing Lorem Ipsum passages,
+        and more recently with desktop publishing software like Aldus PageMaker
+        including versions of Lorem Ipsum.
+    </string>
+    <string name="news_b">
+        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum
+        is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here,
+        making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text,
+        and a search for lorem ipsum will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident,
+        sometimes on purpose (injected humour and the like).
+    </string>
+    <string name="news_c">
+        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don\'t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn\'t anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+    </string>
+    <string name="news_d">
+Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+    </string>
+    <string name="news_e">
+Quisque pretium id risus nec congue. Fusce pharetra malesuada dui. Quisque pretium ultrices metus quis tincidunt. Aliquam eleifend tellus ac ligula consectetur accumsan. Pellentesque nunc velit, molestie quis venenatis et, pharetra facilisis mi. Vestibulum efficitur arcu eget purus efficitur porttitor eu viverra ante. Quisque tortor mi, vehicula at diam tincidunt, sagittis fringilla velit. Ut maximus, leo vitae ornare aliquam, urna odio dignissim mi, sed egestas tortor nisl vel ex. Duis non interdum nisi, vel sodales augue.
+
+Quisque faucibus enim et enim dictum eleifend. Mauris ornare blandit pellentesque. Praesent at felis pulvinar, rutrum tellus quis, lobortis odio. Morbi a suscipit mauris. Curabitur vulputate turpis metus, a porttitor dui sagittis in. In vulputate erat sit amet elit pellentesque eleifend. Proin ornare massa a nulla rhoncus, et venenatis nunc malesuada. Vestibulum id facilisis risus. Maecenas consequat, erat vel volutpat varius, turpis arcu pretium tellus, non faucibus erat orci quis augue. Aenean fermentum felis turpis, id fringilla dui consectetur quis. Cras urna erat, tincidunt eget pretium in, efficitur eu arcu. Nulla at volutpat metus.
+    </string>
+    <string name="news_f">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eros lorem, porttitor et feugiat sed, pellentesque in nisi. Nulla lacinia feugiat felis ut viverra. Vestibulum placerat ex sit amet quam finibus varius. In a leo purus. Cras finibus mi at rutrum aliquam. Aenean tristique velit et purus efficitur sagittis. Aliquam vel dolor non urna congue mattis vitae a mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a justo velit.
+
+Nam vitae dignissim libero, et tincidunt est. Aliquam fermentum nibh ac orci facilisis, id fringilla erat tempus. Vestibulum tempus justo eget nisl bibendum, semper sollicitudin urna feugiat. Maecenas pharetra, eros a mollis suscipit, eros libero pellentesque libero, vel luctus lacus augue eget nunc. Aliquam at molestie odio. Quisque tempor, diam rutrum tristique vehicula, leo nulla pretium est, quis finibus sapien purus a orci. Vestibulum hendrerit massa ut faucibus vehicula. Aenean tempus arcu quis ligula porta volutpat.
+    </string>
+    <string name="news_g">
+Fusce faucibus diam eget ante vestibulum, posuere elementum orci semper. Mauris semper non nisi a pulvinar. Nulla vel sem est. Integer quis ornare arcu. Sed varius malesuada felis tristique gravida. Fusce varius lorem ut odio accumsan, vel ornare diam accumsan. Quisque imperdiet quam bibendum, condimentum nulla sit amet, commodo nisl. Maecenas pulvinar, erat vel auctor scelerisque, lorem ante auctor neque, nec tincidunt metus nunc non nisl. Mauris viverra sapien a nulla feugiat eleifend. Ut diam lectus, viverra nec nunc vulputate, scelerisque pharetra nisi. Etiam in mattis urna. Vivamus eu lacus interdum, dignissim ipsum vitae, sagittis ex. In leo tortor, posuere id velit quis, euismod consectetur sem. Donec gravida consectetur ornare. Morbi eu mauris a nisl dignissim molestie. Mauris pharetra augue quis semper tempus.
+
+Sed diam enim, lobortis ac nibh gravida, facilisis laoreet justo. Vivamus molestie, felis eu vehicula sodales, sapien dolor venenatis velit, ac varius velit turpis vulputate velit. Nunc non ante ut nisi dictum iaculis. Fusce non laoreet nibh, ac posuere lacus. Aliquam nec tortor sit amet tortor scelerisque elementum a sit amet diam. Ut ac metus quis nisi luctus porta. Nam euismod mi sed ornare dignissim. Aenean non diam at sem accumsan rhoncus vitae id nulla. Donec finibus malesuada massa sit amet blandit. Nulla mollis magna sit amet lacus sodales suscipit.
+    </string>
+    <string name="news_h">
+Quisque pretium id risus nec congue. Fusce pharetra malesuada dui. Quisque pretium ultrices metus quis tincidunt. Aliquam eleifend tellus ac ligula consectetur accumsan. Pellentesque nunc velit, molestie quis venenatis et, pharetra facilisis mi. Vestibulum efficitur arcu eget purus efficitur porttitor eu viverra ante. Quisque tortor mi, vehicula at diam tincidunt, sagittis fringilla velit. Ut maximus, leo vitae ornare aliquam, urna odio dignissim mi, sed egestas tortor nisl vel ex. Duis non interdum nisi, vel sodales augue.
+
+Quisque faucibus enim et enim dictum eleifend. Mauris ornare blandit pellentesque. Praesent at felis pulvinar, rutrum tellus quis, lobortis odio. Morbi a suscipit mauris. Curabitur vulputate turpis metus, a porttitor dui sagittis in. In vulputate erat sit amet elit pellentesque eleifend. Proin ornare massa a nulla rhoncus, et venenatis nunc malesuada. Vestibulum id facilisis risus. Maecenas consequat, erat vel volutpat varius, turpis arcu pretium tellus, non faucibus erat orci quis augue. Aenean fermentum felis turpis, id fringilla dui consectetur quis. Cras urna erat, tincidunt eget pretium in, efficitur eu arcu. Nulla at volutpat metus.
+    </string>
+    <string name="news_m">
+Donec at urna non lectus tristique porttitor. Integer sit amet erat justo. Etiam ut semper dolor, sed placerat orci. Duis pretium elit eget nulla maximus condimentum. Cras a aliquet odio. Donec et quam suscipit, imperdiet lorem vel, porta lorem. Suspendisse ultrices erat odio, sit amet maximus purus facilisis sed.
+
+Sed venenatis orci commodo volutpat aliquam. Duis finibus varius orci, non lacinia magna semper ac. Maecenas iaculis semper pretium. Integer porttitor odio felis, ac faucibus lorem ultrices ut. Donec a nibh at metus molestie euismod. Nulla suscipit odio nibh, in varius nulla pellentesque ut. Ut sed imperdiet nibh, ac gravida erat. Curabitur eget porttitor sem. Sed diam dolor, posuere in velit sit amet, vestibulum scelerisque leo.
+    </string>
+    <string name="news_n">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eros lorem, porttitor et feugiat sed, pellentesque in nisi. Nulla lacinia feugiat felis ut viverra. Vestibulum placerat ex sit amet quam finibus varius. In a leo purus. Cras finibus mi at rutrum aliquam. Aenean tristique velit et purus efficitur sagittis. Aliquam vel dolor non urna congue mattis vitae a mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Sed a justo velit.
+
+Nam vitae dignissim libero, et tincidunt est. Aliquam fermentum nibh ac orci facilisis, id fringilla erat tempus. Vestibulum tempus justo eget nisl bibendum, semper sollicitudin urna feugiat. Maecenas pharetra, eros a mollis suscipit, eros libero pellentesque libero, vel luctus lacus augue eget nunc. Aliquam at molestie odio. Quisque tempor, diam rutrum tristique vehicula, leo nulla pretium est, quis finibus sapien purus a orci. Vestibulum hendrerit massa ut faucibus vehicula. Aenean tempus arcu quis ligula porta volutpat.
+    </string>
+    <string name="new_1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_3">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_6">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_7">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_8">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_9">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_10">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="new_11">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+
+</resources>

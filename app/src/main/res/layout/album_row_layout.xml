@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_margin="10dp"
+    app:cardElevation="6dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/AlbumsTitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="textStart"
+                android:text="Title"
+                android:textSize="20sp" />
+
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <!--<TextView
+        android:id="@+id/courseRoom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textColor="#F6F6F6"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/courseCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:textColor="@android:color/holo_purple"
+        android:textSize="12sp"
+        android:textStyle="bold" />-->
+
+
+</androidx.cardview.widget.CardView>

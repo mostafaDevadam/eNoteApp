@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/user_info_profile"
+    app:startDestination="@id/displayUserInfoProfileFragment">
+
+    <fragment
+        android:id="@+id/displayUserInfoProfileFragment"
+        android:name="com.example.mynavviewmodelapplication.fragments.DisplayUserInfoProfileFragment"
+        android:label="fragment_display_user_info_profile"
+        tools:layout="@layout/fragment_display_user_info_profile" >
+        <action
+            android:id="@+id/action_displayUserInfoProfileFragment_to_editUserInfoProfileFragment"
+            app:destination="@id/editUserInfoProfileFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/editUserInfoProfileFragment"
+        android:name="com.example.mynavviewmodelapplication.fragments.EditUserInfoProfileFragment"
+        android:label="fragment_edit_user_info_profile"
+        tools:layout="@layout/fragment_edit_user_info_profile" >
+        <action
+            android:id="@+id/action_editUserInfoProfileFragment_to_displayUserInfoProfileFragment"
+            app:destination="@id/displayUserInfoProfileFragment" />
+    </fragment>
+</navigation>
